@@ -1,2 +1,2 @@
 # Deathnote
-Ranjan Kumar
+Author - Ranjan Kumar
